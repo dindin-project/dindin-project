@@ -53,9 +53,11 @@ footer ul {
 
 footer ul li {
     transition: 0.4s;
-
-    color: var(--pink-color);
 }
+
+footer ul li:hover {
+    color: var(--pink-color);
+} 
 
 footer button {
     background-color: var(--green-color);
