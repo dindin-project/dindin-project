@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+
+    font-size: 1rem;
+    /* overflow: hidden; */
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+:root {
+    /* Cores */
+
+    --green-color: #419488;
+    --pink-color: #FF4081;
+    --white-text: #fff;
+    --white-background: #E5E5E5;
+    --white-back-video: #F7F7F7;
+    --gray-line: #C4C4C4; 
+}
